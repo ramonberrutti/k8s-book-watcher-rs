@@ -1,0 +1,15 @@
+apiVersion: ramonberrutti.github.com/v1
+kind: Book
+metadata:
+  name: under-the-dome
+spec:
+  title: "Under the Dome: A Novel"
+  author: Stephen King
+---
+apiVersion: ramonberrutti.github.com/v1
+kind: Book
+metadata:
+  name: rust-book
+spec:
+  title: The Rust Programming Language
+  author: Steve Klabnik
